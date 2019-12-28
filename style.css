@@ -20,6 +20,7 @@ body {
 .key {
   height: calc(var(--width) * 4);
   width: var(--width);
+  border-radius: 0 0 5px 5px;
 }
 
 .white {
@@ -40,5 +41,5 @@ body {
   background-color: #ccc;
 }
 .black.active {
-  background-color: #333;
+  background-color: #242424;
 }
